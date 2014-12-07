@@ -2,7 +2,7 @@
 Time spent: 5-6 hours spent in total
 
 Completed user stories:
-* [x] Includes all required user stories from Week 3 Twitter Client.
+* [x] Includes all required user stories from Week 4 Twitter Client.
 * [x] User can switch between Timeline and Mention views using tabs.
     1. User can view their home timeline tweets.
     2. User can view the recent mentions of their username.
