@@ -17,4 +17,4 @@ Completed user stories:
 
 * [x] Improve the user interface and theme the app to feel twitter branded
 
-![Demo](https://raw.githubusercontent.com/ddsakura/AndroidTwitterClient/master/demo.gif)
+![Demo](https://raw.githubusercontent.com/ddsakura/Android-Twitter-with-Fragments/master/demo.gif)
